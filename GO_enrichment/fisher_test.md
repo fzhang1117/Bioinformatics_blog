@@ -10,4 +10,5 @@ For example, a sample of teenagers might be divided in to male and female on the
 |    **Studying**  |  **1**   |   **9**   |     10    |
 | **Not-studying** |   **11** |   **3**   |     14    |
 |   Column total   |   12     |     12    |     24    |
+
 For example, we find **300** Differnet expressed genes(DEGs) from **10000** Genes
